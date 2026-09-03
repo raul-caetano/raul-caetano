@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raul-caetano/"><img src="https://img.shields.io/badge/LinkedIn-raul--caetano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:raul.pereira@skytel.com.br"><img src="https://img.shields.io/badge/E--mail-contato-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="mailto:contato.raulcaetano@gmail.com"><img src="https://img.shields.io/badge/E--mail-contato.raulcaetano-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
 ---
