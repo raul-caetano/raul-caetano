@@ -36,10 +36,10 @@ Nos últimos anos entreguei **dezenas de sistemas em produção** para operaçõ
 
 | Projeto | Descrição |
 |---|---|
-| **[crm-chargeback](https://github.com/gitraulpereira/crm-chargeback)** | CRM de contestação/chargeback completo — construído do zero em .NET e migrado para Next.js |
-| **[prevencao-fraude](https://github.com/gitraulpereira/prevencao-fraude)** | Ferramenta de prevenção à fraude para varejo — R$ 200 mil em prejuízo evitado |
-| **[migracoes-nextjs](https://github.com/gitraulpereira/migracoes-nextjs)** | Modernização de sistemas legados ASP.NET → Next.js 15, com corte em produção |
-| **[automacoes-rpa](https://github.com/gitraulpereira/automacoes-rpa)** | Robôs em Python/Selenium para coleta, extração e alimentação de painéis |
+| **[crm-chargeback](https://github.com/raul-caetano/crm-chargeback)** | CRM de contestação/chargeback completo — construído do zero em .NET e migrado para Next.js |
+| **[prevencao-fraude](https://github.com/raul-caetano/prevencao-fraude)** | Ferramenta de prevenção à fraude para varejo — R$ 200 mil em prejuízo evitado |
+| **[migracoes-nextjs](https://github.com/raul-caetano/migracoes-nextjs)** | Modernização de sistemas legados ASP.NET → Next.js 15, com corte em produção |
+| **[automacoes-rpa](https://github.com/raul-caetano/automacoes-rpa)** | Robôs em Python/Selenium para coleta, extração e alimentação de painéis |
 
 ---
 
