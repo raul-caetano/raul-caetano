@@ -32,14 +32,21 @@ Nos últimos anos entreguei **dezenas de sistemas em produção** para operaçõ
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-18B9CE?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### 📌 Projetos em destaque
+### 💻 Código para rodar (open source)
 
 | Projeto | Descrição |
 |---|---|
-| **[crm-chargeback](https://github.com/raul-caetano/crm-chargeback)** | CRM de contestação/chargeback completo — construído do zero em .NET e migrado para Next.js |
+| **[mini-crm-contestacao](https://github.com/raul-caetano/mini-crm-contestacao)** | CRM de chargeback full-stack navegável — Next.js 15 + TypeScript + testes |
+| **[rpa-coletor](https://github.com/raul-caetano/rpa-coletor)** | Robô de automação (RPA) em Python + Selenium — resiliente e testado |
+
+### 📌 Estudos de caso (o que entreguei em produção)
+
+| Projeto | Descrição |
+|---|---|
+| **[crm-chargeback](https://github.com/raul-caetano/crm-chargeback)** | CRM de contestação/chargeback completo — do zero em .NET e migrado para Next.js |
 | **[prevencao-fraude](https://github.com/raul-caetano/prevencao-fraude)** | Ferramenta de prevenção à fraude para varejo — R$ 200 mil em prejuízo evitado |
 | **[migracoes-nextjs](https://github.com/raul-caetano/migracoes-nextjs)** | Modernização de sistemas legados ASP.NET → Next.js 15, com corte em produção |
-| **[automacoes-rpa](https://github.com/raul-caetano/automacoes-rpa)** | Robôs em Python/Selenium para coleta, extração e alimentação de painéis |
+| **[automacoes-rpa](https://github.com/raul-caetano/automacoes-rpa)** | 10+ robôs em Python/Selenium para coleta, extração e alimentação de painéis |
 
 ---
 
